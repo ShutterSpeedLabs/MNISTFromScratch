@@ -5,3 +5,11 @@ dataset/test.csv
 dataset/t10k-labels.idx1-ubyte
 dataset/t10k-images.idx3-ubyte
 dataset/archive.zip
+MNIST/raw/t10k-images-idx3-ubyte
+MNIST/raw/t10k-images-idx3-ubyte.gz
+MNIST/raw/train-labels-idx1-ubyte.gz
+MNIST/raw/train-labels-idx1-ubyte
+MNIST/raw/train-images-idx3-ubyte.gz
+MNIST/raw/train-images-idx3-ubyte
+MNIST/raw/t10k-labels-idx1-ubyte.gz
+MNIST/raw/t10k-labels-idx1-ubyte
