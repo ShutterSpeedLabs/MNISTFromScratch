@@ -13,3 +13,4 @@ MNIST/raw/train-images-idx3-ubyte.gz
 MNIST/raw/train-images-idx3-ubyte
 MNIST/raw/t10k-labels-idx1-ubyte.gz
 MNIST/raw/t10k-labels-idx1-ubyte
+handwritten_digit_recognition_GPU.ipynb
